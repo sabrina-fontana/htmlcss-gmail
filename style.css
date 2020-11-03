@@ -1,0 +1,81 @@
+body {
+  background-image: url(img/sfondo.jpg);
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+  font-size: 18px;
+}
+
+h1 {
+  display: inline-block;
+}
+
+.white-text {
+  color: white;
+}
+
+header {
+  border-bottom: 3px solid white;
+}
+
+.logo {
+  vertical-align: middle;
+  padding: 10px 0;
+}
+
+
+form {
+  padding-top: 10px;
+}
+
+button {
+  border-radius: 25%;
+}
+
+.mail-number {
+  background-color: orange;
+  border-radius: 50%;
+  padding: 6px;
+}
+
+.mail-list {
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  padding: 10px 0;
+}
+
+.row {
+  border: 2px solid black;
+}
+
+.read {
+  background-color: lightgrey;
+}
+
+.unread {
+  background-color: white;
+}
+
+.mail-title {
+  font-weight: bold;
+}
+
+.mail-text {
+  color: grey;
+}
+
+.italic-text {
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.italic {
+  font-style: italic;
+}
